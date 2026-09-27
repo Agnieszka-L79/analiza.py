@@ -1,4 +1,4 @@
 import platform
 
 print(platform.platform())
-# testy
+print(platform.system())
