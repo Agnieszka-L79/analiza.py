@@ -7,3 +7,5 @@
 - d
 - 
 commit
+zmiana
+kropka
