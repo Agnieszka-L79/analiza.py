@@ -3,8 +3,7 @@
 - lista
 - a
 - b
-- c
-- d
+
 - 
 commit
 zmiana
